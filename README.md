@@ -21,7 +21,4 @@ To run,
 $ npm run start
 ```
 
-To run,
-```
-$ npm run start
-```
+OSX users can download the latest release
